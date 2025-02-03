@@ -1,5 +1,4 @@
-** To-Do-List**
-
+**To-Do-List**
 
 - Designed and developed a responsive To-Do List web application using HTML, CSS, and JavaScript.
 - Incorporated dynamic task addition, deletion, and status filtering (All, Completed, Incomplete).
